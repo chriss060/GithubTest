@@ -11,7 +11,7 @@
 4. 해당Task를실행
 5. Task 완료 후 Completion Handler 클로저가 호출이 됨
 
-### * DispatchQueue.main.async : 작업을 수행할 다른 큐에게 작업을 넘기자마자 현재의 queue(main)에게 컨트롤을 돌려주는 메소드.
+* DispatchQueue.main.async : 작업을 수행할 다른 큐에게 작업을 넘기자마자 현재의 queue(main)에게 컨트롤을 돌려주는 메소드.
 
 
  ```swift
